@@ -7,3 +7,6 @@
 .purple {
     color: purple;
 }
+.uppercase {
+    text-transform: uppercase;
+}
