@@ -10,3 +10,8 @@
 .uppercase {
     text-transform: uppercase;
 }
+#biologo {
+    align-items: center;
+    weight: 20px;
+    height: 20px;
+}
